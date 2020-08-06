@@ -4,3 +4,5 @@
 ## Name: Chevrolet Guerin
 ## Assignment: 1
 ## Game: Pacman
+
+### Game Description: 
