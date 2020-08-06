@@ -1,0 +1,16 @@
+# UE4 Project directories to ignore
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/Build/
+
+# Visual Studio Solutions
+/*.sln
+/*.sdf
+/*.opensdf
+/*.suo
+
+# Linx Project files
+/*.pro
+/*.kdev4
