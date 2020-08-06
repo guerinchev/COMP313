@@ -1,11 +1,12 @@
 
-# Course Code: COMP313
+## Course Code: COMP313
 
 ## Name: Chevrolet Guerin
 ## Assignment: 1
 ## Game: Pacman
 
 ### Game Description:
+
 
 The main action of this game is moving a marble (a.k.a weird pacman) with the W,A,S,D keys to collect pellets and avoid being eaten be even weirder representations of ghosts(thin cylinders in my case). Pacman can eat power pellets which are the larger blinking pellets which makes the ghosts continue following their path instead of following the pacman if they have line of site. Pacman can use the two exits to teleport over to the opposite side of the maze if need be to avoid getting eaten by the ghosts. Pacman has three lives and once he uses them all if not eating all the pellets the game will finish and give the player the chance to replay or end game.
 The start screen for the player allows them to either choose settings or start. The setting has one implemented of two options, the resolution option allows the player to choose between two different resolutions.
